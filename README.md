@@ -7,3 +7,5 @@ This is a Map portfolip for maps created by Nelson Gautier in GEOG 4370. These m
 Historical Sites, Historical sites in Athens-Clarke County.pdf
 
 Aspect Analysis of UGA, Aspects of the Univrsity of Georgia.pdf
+
+Study area of Athens Schools and Atlanta School districts,Data managment, Screen digatlization.pdf
