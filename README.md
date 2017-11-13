@@ -11,3 +11,6 @@ Aspect Analysis - University of Georgia - Athens, GA.pdf
 Study area of Athens Schools and Atlanta School districts, Data managment.pdf
 
 Study area of Athens Schools and Atlanta School districts, Screen digatlization.pdf
+
+Potential New Site Locations.pdf
+
