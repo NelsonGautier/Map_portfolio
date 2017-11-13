@@ -4,16 +4,16 @@ This is a Map portfolip for maps created by Nelson Gautier in GEOG 4370. These m
 
 
 # Table of Contents
-Historical Sites, Historical sites in Athens-Clarke County.pdf
-
-Aspect Analysis - University of Georgia - Athens, GA.pdf
+Aspect Analysis - University of Georgia - Athens, GA.pdf 
 
 Study area of Athens Schools and Atlanta School districts, Data managment.pdf
 
-Study area of Athens Schools and Atlanta School districts, Screen digatlization.pdf
+Historical Sites, Historical sites in Athens-Clarke County.pdf
+
+Nightime Hospital Service Areas.pdf
 
 Potential New Site Locations.pdf
 
-Suiteable New Traning facitity Sites.pdf
+Study area of Athens Schools and Atlanta School districts, Screen digatlization.pdf
 
-Nightime Hospital Service Areas.pdf
+Suiteable New Traning facitity Sites.pdf
