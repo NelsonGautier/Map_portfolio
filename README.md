@@ -8,4 +8,6 @@ Historical Sites, Historical sites in Athens-Clarke County.pdf
 
 Aspect Analysis of UGA, Aspects of the Univrsity of Georgia.pdf
 
-Study area of Athens Schools and Atlanta School districts,Data managment, Screen digatlization.pdf
+Study area of Athens Schools and Atlanta School districts, Data managment.pdf
+
+Study area of Athens Schools and Atlanta School districts, Screen digatlization.pdf
