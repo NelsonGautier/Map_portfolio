@@ -8,7 +8,7 @@ Aspect Analysis - University of Georgia - Athens, GA.pdf
 
 Study area of Athens Schools and Atlanta School districts, Data managment.pdf
 
-Historical Sites, Historical sites in Athens-Clarke County.pdf
+Historical Sites, Historical sites map.pdf
 
 Nightime Hospital Service Areas.pdf
 
