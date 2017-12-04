@@ -6,6 +6,8 @@ This is a Map portfolip for maps created by Nelson Gautier in GEOG 4370. These m
 # Table of Contents
 Aspect Analysis - University of Georgia - Athens, GA.pdf 
 
+Modern Military Installations in Civil War Landscape, Civil War Wild Card.pdf
+
 Study area of Athens Schools and Atlanta School districts, Data managment.pdf
 
 Historical Sites, Historical sites map.pdf
